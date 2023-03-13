@@ -31,7 +31,7 @@ class WellcomeScreen extends StatelessWidget {
                 ),
                 const SizedBox(height: 10),
                 const Text(
-                  'Never a better time than now to start',
+                  'Never a better time than now to start ',
                   style: TextStyle(
                     fontSize: 14,
                     color: Colors.black38,
