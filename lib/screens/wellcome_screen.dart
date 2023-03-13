@@ -42,7 +42,7 @@ class WellcomeScreen extends StatelessWidget {
                 SizedBox(
                   width: double.infinity,
                   child: CustomButton(
-                    text: 'Get started',
+                    text: 'Get started ',
                     onPressed: () {
                       print(authProvider.isSignedIn);
                       authProvider.isSignedIn
